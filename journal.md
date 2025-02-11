@@ -5,6 +5,9 @@ Written by ME
 
 This is the introduction that I am writing
 
+## Conclusion
+This conclusion is written by John.
+
 ## References
 
 Teo, J. L. (2024)
