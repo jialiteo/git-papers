@@ -1,6 +1,9 @@
 # This is my paper
 Written by ME
 
+# Author Affiliations
+BLAH BLAH BLAH
+
 ## Introduction
 
 This is the introduction that I am writing
