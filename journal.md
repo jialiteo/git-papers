@@ -1,8 +1,8 @@
 # This is my paper
 Written by ME
 
-# Author Affiliations
-BLAH BLAH BLAH
+# Author Affiliations=
+Teo, J. L.
 
 ## Introduction
 
