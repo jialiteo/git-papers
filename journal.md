@@ -5,6 +5,10 @@ Written by ME
 
 This is the introduction that I am writing
 
+# Conclusion
+
+This is where I'll write my conclusion
+
 ## Figures
 Insert figures here
 
