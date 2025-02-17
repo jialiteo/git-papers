@@ -1,6 +1,9 @@
 # This is my paper
 Written by ME
 
+# Author Affiliations
+Teo, J. L.
+
 ## Introduction
 
 This is the introduction that I am writing
