@@ -5,6 +5,9 @@ Written by ME
 
 This is the introduction that I am writing
 
+## Figures
+Insert figures here
+
 ## References
 
 Teo, J. L. (2024)
